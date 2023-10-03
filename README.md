@@ -10,4 +10,4 @@ These models are applied in 4 different ways:
 3) With 2 Feature Selection Methods implemented using Pipelines;
 3) With Feature Selection Methods implemented using Pipelines and Cross Validation Methods.
 
-Note: The dataset contains ordinal, categorical and numerical features that are encoded and/or imputed.
+/Note: The dataset contains ordinal, categorical and numerical features that are encoded and/or imputed.
