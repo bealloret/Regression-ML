@@ -1,4 +1,4 @@
-# Soothsayer Machine: Regression-ML
+# Soothsayer Machines: Regression-ML
 
 ## Feature Selection File:
 This file contains two different algorithms of ML to predict the prices of houses based on their features:
